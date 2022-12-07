@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1623616466 source:c:\users\utilizador\desktop\isec\programação\programas\trabalho_prático\main.c
+	<stdio.h>
+	<stdlib.h>
+	"utils.h"
+	"jogo.h"
+	"menu.h"
+
+1619951010 c:\users\utilizador\desktop\isec\programação\programas\trabalho_prático\utils.h
+
+1623512929 source:c:\users\utilizador\desktop\isec\programação\programas\trabalho_prático\utils.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"utils.h"
+
+1623622412 source:c:\users\utilizador\desktop\isec\programação\programas\trabalho_prático\jogo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utils.h"
+	"jogo.h"
+
+1623607990 c:\users\utilizador\desktop\isec\programação\programas\trabalho_prático\jogo.h
+
+1622665653 c:\users\utilizador\desktop\isec\programação\programas\trabalho_prático\menu.h
+
+1622726631 source:c:\users\utilizador\desktop\isec\programação\programas\trabalho_prático\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"utils.h"
+	"jogo.h"
+	"menu.h"
+
